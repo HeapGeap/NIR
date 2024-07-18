@@ -1,0 +1,104 @@
+@import url(https://fonts.googleapis.com/css?family=Rubik+Bubbles);
+
+body {
+  background:black;
+
+}
+
+
+
+
+#allthethings {
+  width:0px;
+  height:0px;
+
+  border-left: 300px solid transparent;
+  border-right:300px solid transparent;
+  border-top: 300px solid transparent;
+  position:relative;
+  margin:auto;
+  top:300px;
+  left:2px;
+
+
+
+
+
+
+}
+
+#play {
+
+  position:relative;
+  bottom:330px;
+  right:300px;
+  height:50px;
+  width:600px;
+  background:#34dede;
+  text-align:center;
+  font-size:30px;
+ background-size: 1px 300%;
+ -webkit-transition:0.5s;
+  transition:0.5s;
+  color:blue;
+  font-family:rubik bubbles;
+
+  cursor:pointer;
+
+
+
+}
+
+#play:hover {
+  background:#7A0000;
+  color:white;
+-webkit-transform:rotate(-1deg);
+  transform:rotate(-2deg);
+
+
+}
+
+#leaderboard:hover {
+  background:#7A0000;
+  color:white;
+
+  -webkit-transform:rotate(-2deg);
+  transform:rotate(-2deg);
+
+
+}
+
+
+
+#play p {
+  position:relative;
+  top:2px;
+  right:4px;
+
+
+}
+
+#leaderboard {
+  height:50px;
+  width:500px;
+  background:#34dede;
+  position:relative;
+  bottom:345px;
+  right:240px;
+  text-align:center;
+  font-size:30px;
+  font-family:rubik bubbles;
+  color:blue;
+   -webkit-transition:0.5s;
+  transition:0.5s;
+  cursor:pointer;
+
+
+
+}
+#leaderboard p {
+  position:relative;
+  top:0px;
+  right:9px;
+
+}

@@ -19,3 +19,16 @@
 ◾ **scoreCount** - accumulation of game points, sending to the table of records;<br>
 ◾ **render** - calling all functions;<br>
 ◾ **addEventListener** - game movement.
+
+
+###
+
+<h2 align="center">End of the game : </h2>
+<div align="right">
+  <img src="https://github.com/HeapGeap/NIR/blob/main/assetsGit/NIR_Lose.gif"  />
+</div>
+
+###
+
+<h2 align="center">Getting Start</h2>
+Required environment : Visual studio code with Live Server plugin.
